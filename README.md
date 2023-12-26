@@ -17,15 +17,11 @@ Brief description or overview of your ASP.NET Core project.
 
 2. Apply database migrations:
 
-    To create a new migration:
+    To apply the databae migration
 
     ```bash
-    add-migration GoFive_CRM
-    ```
-
-    ```bash
-    update-database
-    ```
+    Update-Database -Migration GoFive_CRM
+    ``` 
     More details on EF Core Migrations: [Entity Framework Core Migrations](https://docs.microsoft.com/en-us/ef/core/managing-schemas/migrations/?tabs=dotnet-core-cli)
 
 4. Build and run the application:
