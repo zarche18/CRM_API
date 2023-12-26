@@ -13,7 +13,6 @@ Brief description or overview of your ASP.NET Core project.
 
     ```bash
     git clone https://github.com/your-username/your-repo.git
-    cd your-repo
     ``` 
 
 2. Apply database migrations:
