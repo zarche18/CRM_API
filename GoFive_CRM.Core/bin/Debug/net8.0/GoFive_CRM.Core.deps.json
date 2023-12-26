@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "GoFive_CRM.Core/1.0.0": {
+        "runtime": {
+          "GoFive_CRM.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GoFive_CRM.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

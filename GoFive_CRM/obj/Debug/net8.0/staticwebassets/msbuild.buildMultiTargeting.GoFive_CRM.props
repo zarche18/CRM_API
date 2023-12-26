@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GoFive_CRM.props" />
+</Project>

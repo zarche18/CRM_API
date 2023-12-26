@@ -1,0 +1,15 @@
+D:\ZarChe\GoFive\GoFive_CRM\GoFive_CRM.Application\bin\Debug\net8.0\GoFive_CRM.Application.deps.json
+D:\ZarChe\GoFive\GoFive_CRM\GoFive_CRM.Application\bin\Debug\net8.0\GoFive_CRM.Application.dll
+D:\ZarChe\GoFive\GoFive_CRM\GoFive_CRM.Application\bin\Debug\net8.0\GoFive_CRM.Application.pdb
+D:\ZarChe\GoFive\GoFive_CRM\GoFive_CRM.Application\bin\Debug\net8.0\GoFive_CRM.Core.dll
+D:\ZarChe\GoFive\GoFive_CRM\GoFive_CRM.Application\bin\Debug\net8.0\GoFive_CRM.Core.pdb
+D:\ZarChe\GoFive\GoFive_CRM\GoFive_CRM.Application\obj\Debug\net8.0\GoFive_CRM.Application.csproj.AssemblyReference.cache
+D:\ZarChe\GoFive\GoFive_CRM\GoFive_CRM.Application\obj\Debug\net8.0\GoFive_CRM.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\ZarChe\GoFive\GoFive_CRM\GoFive_CRM.Application\obj\Debug\net8.0\GoFive_CRM.Application.AssemblyInfoInputs.cache
+D:\ZarChe\GoFive\GoFive_CRM\GoFive_CRM.Application\obj\Debug\net8.0\GoFive_CRM.Application.AssemblyInfo.cs
+D:\ZarChe\GoFive\GoFive_CRM\GoFive_CRM.Application\obj\Debug\net8.0\GoFive_CRM.Application.csproj.CoreCompileInputs.cache
+D:\ZarChe\GoFive\GoFive_CRM\GoFive_CRM.Application\obj\Debug\net8.0\GoFive_CRM.Application.csproj.CopyComplete
+D:\ZarChe\GoFive\GoFive_CRM\GoFive_CRM.Application\obj\Debug\net8.0\GoFive_CRM.Application.dll
+D:\ZarChe\GoFive\GoFive_CRM\GoFive_CRM.Application\obj\Debug\net8.0\refint\GoFive_CRM.Application.dll
+D:\ZarChe\GoFive\GoFive_CRM\GoFive_CRM.Application\obj\Debug\net8.0\GoFive_CRM.Application.pdb
+D:\ZarChe\GoFive\GoFive_CRM\GoFive_CRM.Application\obj\Debug\net8.0\ref\GoFive_CRM.Application.dll

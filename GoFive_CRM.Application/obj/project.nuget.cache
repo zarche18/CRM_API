@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "VvoM7r0V5hMaX9/7OjzHP0v6Js3ZeWYP1Jko9ecsaFPEgcps5wvTzWMj4iLApJ9Hy8L4KKrQQqdA56BsCVYvwA==",
+  "success": true,
+  "projectFilePath": "D:\\ZarChe\\GoFive\\GoFive_CRM\\GoFive_CRM.Application\\GoFive_CRM.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Zar Chi\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Zar Chi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
